@@ -1,0 +1,20 @@
+ID	NAME	QUANTITY
+1	AMD RAM	75
+2	K RAM	47
+3	Intel Corei7 CPU	10
+4	Kingston RAM	350
+5	DDR3 RAM	50
+6	Monitor	57
+7	HDD	60
+8	Keyboard	95
+9	WINDOWS	98
+10	Microphone	105
+11	Scanner	67
+12	Printer	129
+13	Mouse	670
+14	Light Pen	45
+15	Celeron CPU	89
+16	Motherboard	789
+17	USB	6087
+18	Floppy Disk	1010
+19	HDML	560
